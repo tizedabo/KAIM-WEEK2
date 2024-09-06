@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib.pyplot
+plotly
+streamlit
+PyPortfolioOpt
+Ta-lib
+NLTK
+psycopg2
+
+
